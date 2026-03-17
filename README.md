@@ -25,8 +25,15 @@ I'm a **Backend Developer** passionate about building **scalable and efficient w
 ---
 
 ### 📊 GitHub Stats
+
+<!-- GitHub overall stats -->
 ![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanika1319&show_icons=true&theme=tokyonight&count_private=true)
+
+<!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika1319&layout=compact&theme=tokyonight)
+
+<!-- GitHub streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanika1319&theme=tokyonight)
 
 ---
 
